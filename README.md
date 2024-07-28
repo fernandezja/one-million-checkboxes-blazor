@@ -1,5 +1,5 @@
 # one-million-checkboxes-blazor
-Exploring and play with a clone ["OneMillionCheckboxes"](https://onemillioncheckboxes.com/) with Blazor
+Exploring and play with a clone ["OneMillionCheckboxes"](https://onemillioncheckboxes.com/) #OMCB with Blazor
 
 ### WIP (Work-in-progress)
  - [ ] Use Virtualize<TItem>
